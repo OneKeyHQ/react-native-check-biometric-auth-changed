@@ -1,4 +1,5 @@
 #import "CheckBiometricAuthChanged.h"
+#import <LocalAuthentication/LocalAuthentication.h>
 
 @implementation CheckBiometricAuthChanged
 RCT_EXPORT_MODULE()
